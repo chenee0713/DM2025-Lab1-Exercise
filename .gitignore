@@ -3,15 +3,29 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore virtual environment
 .venv/
+DMlab01_env/
 
 # Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
 
 # Ignore VS Code settings
 .vscode/
 
 # Ignore text files
-*.txt
+# *.txt
 
 # Ignore CSV files
-*.csv
+# *.csv
+
+# Python 雜項
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS 垃圾檔
+.DS_Store
+Thumbs.db
+
+# 日誌
+*.log
