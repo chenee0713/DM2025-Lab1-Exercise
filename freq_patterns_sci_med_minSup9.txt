@@ -8547,9 +8547,9 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	international:9
 fred	means:9
 fred	action:9
+fred	international:9
 totally:12
 white:12
 columbia:12
@@ -9170,6 +9170,7 @@ letter:13
 meal:13
 al:13
 claire:13
+claire	wisconsin:11
 claire	absurd:11
 claire	absurd	wisconsin:10
 claire	patently:11
@@ -9184,7 +9185,6 @@ absurd	patently	claire	wishes	wisconsin:10
 claire	wishes	absurd:11
 claire	wishes	patently:11
 absurd	claire	wishes	patently:11
-claire	wisconsin:11
 beginning:13
 iv:13
 quacks:13
