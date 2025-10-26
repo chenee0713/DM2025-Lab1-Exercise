@@ -610,9 +610,9 @@ helped:11
 offer:11
 personality:11
 personality	international:9
-personality	alt:9
 personality	510:9
 personality	510	international:9
+personality	alt:9
 practitioner:11
 cold:11
 81:11
@@ -8796,6 +8796,7 @@ absurd	wishes	claire	eau	whoever	philosopher:11
 patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
+wi	wisconsin:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 wi	patently:11
@@ -9050,7 +9051,6 @@ absurd	patently	claire	eau	wi	whoever	philosopher:11
 absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
-wi	wisconsin:11
 gives:12
 gives	approach:9
 reasonable:12
@@ -9152,8 +9152,8 @@ fever:13
 chips:13
 chips	guest:9
 chocolate:13
-chocolate	guest:9
 chocolate	action:9
+chocolate	guest:9
 chocolate	chips:9
 chocolate	chips	guest:9
 benefit:13
@@ -9494,11 +9494,11 @@ doubt:16
 insurance:16
 grief:16
 international:16
+international	guest:9
+international	action:9
 international	means:9
 international	communications:9
 means	international	communications:9
-international	guest:9
-international	action:9
 professional:16
 1993apr19:16
 ill:16

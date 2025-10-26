@@ -1,0 +1,347 @@
+red:5
+15:5
+pretty:5
+usa:5
+thoughts:5
+2025:5
+actually:5
+anymore:5
+cost:5
+country:5
+debt:5
+growth:5
+many:5
+month:5
+others:5
+recently:5
+shares:5
+squeeze:5
+war:5
+world:5
+chinese:5
+haven:5
+investing:5
+paper:5
+report:5
+started:5
+bonds:5
+bad:5
+invest:5
+lot:5
+put:5
+funds:5
+physical:5
+bull:5
+interesting:5
+days:5
+far:5
+never:5
+term:5
+wasn:5
+america:5
+doesn:5
+talking:5
+might:5
+comes:5
+against:5
+love:5
+being:5
+local:5
+weekly:5
+happen:5
+lmao:5
+those:5
+had:5
+work:5
+drop:5
+yields:5
+treasury:5
+guys:5
+hey:5
+hey	guys:5
+won:5
+yes:5
+found:5
+bought:5
+big:6
+big	company:5
+talk:6
+months:6
+probably:6
+doing:6
+target:6
+american:6
+may:6
+president:6
+take:6
+trading:6
+chart:6
+back:6
+20:6
+didn:6
+advice:6
+art:6
+help:6
+losing:6
+old:6
+old	an:5
+our:6
+portfolio:6
+selling:6
+updated:6
+start:6
+hold:6
+already:6
+reason:6
+everyone:6
+better:6
+sense:6
+xi:6
+anything:6
+thanks:6
+seems:6
+plan:6
+things:6
+share:6
+powell:6
+30:7
+rates:7
+same:7
+usd:7
+really:7
+investors:7
+investors	stock:5
+please:7
+without:7
+ago:7
+made:7
+seen:7
+deal:8
+sell:8
+high:8
+lower:8
+need:8
+off:8
+someone:8
+where:8
+say:8
+something:8
+these:8
+thing:8
+emote:8
+img:8
+img	emote:8
+t5_2th52:8
+t5_2th52	emote:8
+t5_2th52	img:8
+emote	t5_2th52	img:8
+currently:8
+50:8
+50	some:5
+bond:8
+dollar:8
+him:8
+look:8
+looking:9
+looking	any:5
+looking	good:5
+cash:9
+said:9
+got:9
+every:9
+every	some:5
+news:9
+way:9
+companies:9
+companies	see:5
+companies	their:5
+companies	company:5
+companies	into:6
+own:9
+reddit:9
+long:9
+still:9
+ll:9
+am:9
+few:9
+its:10
+let:10
+before:10
+before	more:5
+before	year:5
+buy:10
+week:10
+week	were:5
+down:10
+which:10
+most:10
+most	any:5
+go:10
+well:10
+his:10
+his	trump:6
+make:11
+make	other:5
+make	more:5
+make	company:5
+last:11
+always:11
+com:11
+com	stock:5
+stockbuyvest:11
+stockbuyvest	stock:5
+com	stockbuyvest	stock:5
+stockbuyvest	com:11
+x200b:11
+silver:11
+today:11
+after:11
+after	day:5
+should:12
+ve:12
+ve	up:5
+ve	any:5
+ve	been:7
+call:12
+only:12
+only	some:5
+over:12
+over	some:5
+know:12
+much:12
+than:12
+than	people:5
+than	more:6
+here:12
+price:12
+since:12
+too:12
+also:12
+because:12
+because	some:5
+company:13
+company	see:5
+company	see	more:5
+company	has:5
+company	has	more:5
+company	has	their:5
+more	company	has	their:5
+company	their:6
+company	their	more:5
+company	some:7
+more	company	some:7
+company	into:7
+company	into	some:6
+more	company	into	some:6
+company	into	more:7
+company	more:8
+me:13
+10:13
+10	year:5
+10	any:5
+new:13
+new	more:5
+some	new	more:5
+new	company:5
+some	new	company:5
+more	new	company:5
+some	more	new	company:5
+new	some:6
+other:13
+other	their:6
+other	some:6
+right:13
+right	some:5
+tariffs:13
+tariffs	want:5
+tariffs	china:5
+time:13
+time	any:5
+time	see:5
+then:13
+years:13
+money:13
+money	more:5
+money	any:5
+money	some:5
+does:13
+stocks:13
+stocks	any:5
+day:13
+been:14
+year:14
+into:14
+into	get:5
+into	has:6
+into	some:6
+into	some	more:6
+into	see:6
+into	more:7
+could:14
+could	any:5
+were:14
+get:14
+get	more:5
+did:15
+first:15
+why:15
+don:15
+don	more:5
+don	want:6
+good:15
+out:15
+going:16
+stock:16
+stock	see:5
+people:16
+people	more:5
+people	who:5
+people	think:5
+would:16
+would	any:5
+even:17
+even	up:5
+even	want:5
+think:17
+see:18
+see	their:5
+see	has:5
+see	more:6
+see	how:6
+some:18
+some	want:5
+some	has:5
+some	an:5
+some	their:6
+some	any:6
+some	see:6
+some	more:7
+when:18
+an:18
+an	any:5
+an	one:6
+them:19
+who:19
+has:20
+has	more:5
+their	has	more:5
+has	trump:6
+has	their:7
+want:20
+want	up:5
+want	more:5
+want	china:6
+want	their:6
+want	their	china:5
+one:20
+more:21
+more	any:5
+their:21
+their	china:6
+their	more:7
+any:22
+china:22
+up:23
+trump:23
+trump	how:5
+how:25

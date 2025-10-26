@@ -33343,10 +33343,6 @@ proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
 proposed	feel:12
 personally	proposed	feel:12
-proposed	tdawson:12
-proposed	tdawson	feel:11
-personally	proposed	tdawson	feel:11
-proposed	tdawson	personally:12
 proposed	forum:12
 proposed	forum	tdawson:11
 personally	proposed	forum	tdawson:11
@@ -33371,6 +33367,10 @@ proposed	learn	forum:12
 personally	proposed	learn	forum:12
 feel	proposed	learn	forum:12
 personally	feel	proposed	learn	forum:12
+proposed	tdawson:12
+proposed	tdawson	feel:11
+personally	proposed	tdawson	feel:11
+proposed	tdawson	personally:12
 proposed	personally:13
 products:15
 perhaps:15
