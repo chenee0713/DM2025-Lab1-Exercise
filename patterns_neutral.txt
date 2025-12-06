@@ -153,8 +153,8 @@ every	some:5
 news:9
 way:9
 companies:9
-companies	see:5
 companies	their:5
+companies	see:5
 companies	company:5
 companies	into:6
 own:9
@@ -220,12 +220,12 @@ also:12
 because:12
 because	some:5
 company:13
-company	see:5
-company	see	more:5
 company	has:5
 company	has	more:5
 company	has	their:5
 more	company	has	their:5
+company	see:5
+company	see	more:5
 company	their:6
 company	their	more:5
 company	some:7
@@ -237,8 +237,8 @@ company	into	more:7
 company	more:8
 me:13
 10:13
-10	year:5
 10	any:5
+10	year:5
 new:13
 new	more:5
 some	new	more:5
@@ -253,16 +253,16 @@ other	some:6
 right:13
 right	some:5
 tariffs:13
-tariffs	want:5
 tariffs	china:5
+tariffs	want:5
 time:13
-time	any:5
 time	see:5
+time	any:5
 then:13
 years:13
 money:13
-money	more:5
 money	any:5
+money	more:5
 money	some:5
 does:13
 stocks:13
@@ -273,9 +273,9 @@ year:14
 into:14
 into	get:5
 into	has:6
+into	see:6
 into	some:6
 into	some	more:6
-into	see:6
 into	more:7
 could:14
 could	any:5
@@ -304,17 +304,17 @@ even	up:5
 even	want:5
 think:17
 see:18
-see	their:5
 see	has:5
-see	more:6
+see	their:5
 see	how:6
+see	more:6
 some:18
-some	want:5
-some	has:5
 some	an:5
+some	has:5
+some	want:5
 some	their:6
-some	any:6
 some	see:6
+some	any:6
 some	more:7
 when:18
 an:18

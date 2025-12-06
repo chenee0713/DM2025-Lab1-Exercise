@@ -219,16 +219,16 @@ than	more:7
 when:16
 other:16
 other	there:5
+other	now:5
+other	how:5
 other	more:5
 other	going:5
-other	how:5
-other	now:5
 other	from:6
 down:17
 economy:17
-economy	them:5
-economy	more:5
 economy	make:5
+economy	more:5
+economy	them:5
 do:17
 do	more:5
 do	one:6
