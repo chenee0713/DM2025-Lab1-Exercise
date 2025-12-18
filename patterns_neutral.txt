@@ -181,9 +181,9 @@ well:10
 his:10
 his	trump:6
 make:11
+make	company:5
 make	other:5
 make	more:5
-make	company:5
 last:11
 always:11
 com:11
@@ -199,8 +199,8 @@ after:11
 after	day:5
 should:12
 ve:12
-ve	up:5
 ve	any:5
+ve	up:5
 ve	been:7
 call:12
 only:12
@@ -261,9 +261,9 @@ time	any:5
 then:13
 years:13
 money:13
+money	some:5
 money	any:5
 money	more:5
-money	some:5
 does:13
 stocks:13
 stocks	any:5
@@ -273,9 +273,9 @@ year:14
 into:14
 into	get:5
 into	has:6
-into	see:6
 into	some:6
 into	some	more:6
+into	see:6
 into	more:7
 could:14
 could	any:5
@@ -294,9 +294,9 @@ going:16
 stock:16
 stock	see:5
 people:16
-people	more:5
-people	who:5
 people	think:5
+people	who:5
+people	more:5
 would:16
 would	any:5
 even:17
@@ -304,14 +304,14 @@ even	up:5
 even	want:5
 think:17
 see:18
-see	has:5
 see	their:5
+see	has:5
 see	how:6
 see	more:6
 some:18
 some	an:5
-some	has:5
 some	want:5
+some	has:5
 some	their:6
 some	see:6
 some	any:6
